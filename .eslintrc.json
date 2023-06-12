@@ -15,7 +15,7 @@
         "window": "readonly",
         "browser": "readonly",
         "chrome": "readonly",
-        "error": true
+        "button": true
     },
     "env": {
         "browser": true,
