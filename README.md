@@ -1,6 +1,6 @@
 # Listen 1 (Chrome Extension) V2.28.0
 
-（最后更新于 2023 年 3 月 29 日）
+（最后更新于 2023 年 3 月 29 日）1
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 
