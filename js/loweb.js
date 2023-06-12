@@ -393,7 +393,7 @@ const MediaService = {
       Promise.all(getUrlPromises)
         .then(playerFailCallback)
         .catch((response) => {
-        button = document.getElementById('download_music');
+          button = document.getElementById('download_music');
           button.href = sound.url;
           playerSuccessCallback(response);
         });
